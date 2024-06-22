@@ -1,0 +1,1 @@
+<?phpsetcookie('username','Shizuka');?>
